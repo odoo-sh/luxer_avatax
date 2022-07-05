@@ -9,7 +9,7 @@
     "category": "Uncategorized",
     "website": "http://sodexis.com/",
     "author": "Sodexis",
-    "license": "LGPL",
+    "license": "LGPL-3",
     "installable": True,
     "application": False,
     "depends": [
